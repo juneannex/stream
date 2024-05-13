@@ -5,9 +5,9 @@ import requests
 import os
 import sys
 
-windows = False
+windows = True
 if 'win' in sys.platform:
-    windows = True
+    windows = False
 
 def grab(url):
     response = requests.get(url, timeout=15).text
