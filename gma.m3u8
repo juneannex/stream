@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718011749/ei/BXNmZrrlKuSFkucP4-2B0Ao/ip/20.161.78.50/id/q6JL3XPMydQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_hXkvoeghdd3fO_IoDu9X-_8wiKFTbk-XnmGpLBI9OHGIi9wTa8o5RPcmY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgX4ZhC1BISmGYLYl9uPDkdCwkXZd3UWhLXq4_2PEYVOACIQDtnjrDRgrE_f1Vk2DIXrR1YdErIXwN19kUpopBg-59JA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
